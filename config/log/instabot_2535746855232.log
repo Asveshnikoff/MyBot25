@@ -1,0 +1,7 @@
+2022-07-05 17:04:18,668 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-07-05 17:04:18,668 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\a.sveshnikov\PycharmProjects\MyBot\venv\lib\site-packages\instabot\bot\bot.py
+2022-07-05 17:04:18,668 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2022-07-05 17:04:18,701 - instabot version: 0.117.0 (api) - WARNING - ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2022-07-05 17:04:18,731 - instabot version: 0.117.0 (api) - WARNING - ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2022-07-05 17:04:18,756 - instabot version: 0.117.0 (api) - WARNING - ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2022-07-05 17:04:18,781 - instabot version: 0.117.0 (api) - WARNING - ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
